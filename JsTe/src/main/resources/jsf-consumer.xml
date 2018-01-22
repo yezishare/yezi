@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:jsf="http://jsf.jd.com/schema/jsf"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+http://jsf.jd.com/schema/jsf http://jsf.jd.com/schema/jsf/jsf.xsd ">
+   <!--注册中心  -->
+    <jsf:registry id="jsfRegistry" index="i.jsf.jd.com"/>
+    <!--服务调用者配置-->
+    <jsf:consumer id="rpcShopService" interface="com.tqmall.ucenter.service.shop.RpcShopService"
+                   protocol="jsf" alias="ucenter.jsf.provider.alias" timeout="600000" retries="0">
+    </jsf:consumer>
+
+</beans>

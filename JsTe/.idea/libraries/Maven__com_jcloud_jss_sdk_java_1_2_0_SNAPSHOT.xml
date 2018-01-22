@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.jcloud:jss-sdk-java:1.2.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://D:/repo/com/jcloud/jss-sdk-java/1.2.0-SNAPSHOT/jss-sdk-java-1.2.0-20170922.125606-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/repo/com/jcloud/jss-sdk-java/1.2.0-SNAPSHOT/jss-sdk-java-1.2.0-20170922.125606-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/repo/com/jcloud/jss-sdk-java/1.2.0-SNAPSHOT/jss-sdk-java-1.2.0-20170922.125606-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

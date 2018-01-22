@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.databene:databene-webdecs:0.6.1">
+    <CLASSES>
+      <root url="jar://D:/repo/org/databene/databene-webdecs/0.6.1/databene-webdecs-0.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/repo/org/databene/databene-webdecs/0.6.1/databene-webdecs-0.6.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/repo/org/databene/databene-webdecs/0.6.1/databene-webdecs-0.6.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
